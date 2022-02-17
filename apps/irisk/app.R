@@ -51,6 +51,7 @@ ui <- pageWithSidebar(
 )
 
 
+
 server <- function(input, output, session) {
   
   # Combine the selected variables into a new data frame
